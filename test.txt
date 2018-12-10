@@ -1,1 +1,2 @@
 print("Hellow wordk Suko blat!!")
+print("Danger suko")
